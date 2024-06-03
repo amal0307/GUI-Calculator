@@ -1,0 +1,5 @@
+Order of program
+1)window1.py
+2)frames.py
+3)addlabels.py
+4)adddigit.py
